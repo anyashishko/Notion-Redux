@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "56c3",
+      "name": "Test",
+      "password": "123456aA",
+      "email": "c@gmail.com",
+      "signupDate": 1733598785118
+    },
+    {
+      "id": "6889",
+      "name": "Анна Шишко",
+      "password": "Qwertyui1",
+      "email": "dgfhg@mail.ru",
+      "signupDate": 1733601113744
+    }
+  ],
+  "notes": []
+}
